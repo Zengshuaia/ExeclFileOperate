@@ -1,0 +1,14 @@
+E:\ExeclFileOperate\ExeclFileOperate\bin\Debug\ExeclFileOperate.dll
+E:\ExeclFileOperate\ExeclFileOperate\bin\Debug\ExeclFileOperate.pdb
+E:\ExeclFileOperate\ExeclFileOperate\bin\Debug\ICSharpCode.SharpZipLib.dll
+E:\ExeclFileOperate\ExeclFileOperate\bin\Debug\NPOI.dll
+E:\ExeclFileOperate\ExeclFileOperate\bin\Debug\NPOI.OOXML.dll
+E:\ExeclFileOperate\ExeclFileOperate\bin\Debug\NPOI.OpenXml4Net.dll
+E:\ExeclFileOperate\ExeclFileOperate\bin\Debug\NPOI.OpenXmlFormats.dll
+E:\ExeclFileOperate\ExeclFileOperate\bin\Debug\NPOI.xml
+E:\ExeclFileOperate\ExeclFileOperate\bin\Debug\NPOI.OOXML.xml
+E:\ExeclFileOperate\ExeclFileOperate\bin\Debug\NPOI.OpenXml4Net.xml
+E:\ExeclFileOperate\ExeclFileOperate\obj\Debug\ExeclFileOperate.csproj.CoreCompileInputs.cache
+E:\ExeclFileOperate\ExeclFileOperate\obj\Debug\ExeclFileOperate.csproj.CopyComplete
+E:\ExeclFileOperate\ExeclFileOperate\obj\Debug\ExeclFileOperate.dll
+E:\ExeclFileOperate\ExeclFileOperate\obj\Debug\ExeclFileOperate.pdb
